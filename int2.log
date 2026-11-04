@@ -1,0 +1,8 @@
+﻿python : C:\Users\33785\AppData\Local\Programs\Python\Python313\python.exe: can't open file 'D:\\STM\\FPGA\\efinity\\bi
+n\\efx_run_pt_unified.py': [Errno 2] No such file or directory
+At line:15 char:1634
++ ... p1_camera"; python "D:\STM\FPGA\efinity\bin\efx_run_pt_unified.py" p1 ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (C:\Users\33785\...le or directory:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
